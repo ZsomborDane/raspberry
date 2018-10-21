@@ -9,7 +9,7 @@ set -e
 # $ sudo ./update-pi
 #
 # Run from Cron & GitHub:
-# $ curl -s https://raw.githubusercontent.com/zsombordane/raspberry/master/update-pi | sudo bash
+# $ curl -s https://raw.githubusercontent.com/ZsomborDane/raspberry/master/update-pi | sudo bash
 
 
 # Must be run as root or sudo
